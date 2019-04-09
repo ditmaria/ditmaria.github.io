@@ -1,2 +1,2 @@
-# ditmaria.github.io
-практика
+# mditt.github.io
+Практика
